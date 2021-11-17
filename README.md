@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋 ... my name is Elizabeth
+
+A lifelong learner, insatiably curious, prefer the road less travelled and forever fascinated by Albert Einstein being born 3/14th.
+
+### Connect with me:
+
+[<img align="left" alt="HadikHuszar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 **HadikHuszar/HadikHuszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
