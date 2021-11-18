@@ -8,7 +8,11 @@ I am a lifelong learner, insatiably curious, prefer the road less travelled and 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ElizabethHadik)
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Checkout my articles on Medium:
+
+[<img align="left" alt="HadikHuszar | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://www.linkedin.com/in/hadik-barkoczy/)
+
+[How Your Printing Fleet Can Sink Your Company's Ship]()
 
 <!--
 **HadikHuszar/HadikHuszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
