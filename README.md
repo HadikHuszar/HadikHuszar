@@ -20,7 +20,25 @@ I am a lifelong learner, insatiably curious, prefer the road less travelled and 
 
 #
 
-### What I Am Working On
+### What I Am Working On:
+
+I just finished my capstone project at Techtonica. It is called DaySlayer™.
+
+**What is DaySlayer?**
+DaySlayer™ is a team lead app designed to make leading a team simple. <br><br>It allows a user to:
+
+- collect items from the **Team Calendar**
+- collect items from the **Mentor Calendar**
+- create **Pairing Groups**
+- select the **Meditation Exercise** for the day
+- create **Discussion Threads**
+- autogenerate the **Inspirational Quote** for the day
+
+which the user can then copy and paste into the user's preferred messaging mechanism.
+
+It also provides the user with guides to lead the team meetings required for the day.
+
+[You can check it out here.](https://github.com/HadikHuszar/dayslayer)
 
 <!--
 **HadikHuszar/HadikHuszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
