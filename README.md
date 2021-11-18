@@ -14,9 +14,9 @@ I am a lifelong learner, insatiably curious, prefer the road less travelled and 
 
 ### Checkout my articles on Medium:
 
-1. [Now We Know the Power of the Dark Side](https://elizabethhadik.medium.com/now-we-know-the-power-of-the-dark-side-d22953f59129)
+1. [Now We Know the Power of the Dark Side](https://elizabethhadik.medium.com/now-we-know-the-power-of-the-dark-side-d22953f59129?source=friends_link&sk=0350307efdcf43a16148e2d7a2ea842b)
 
-2. [How Your Printing Fleet Can Sink Your Company's Ship](https://elizabethhadik.medium.com/how-your-printing-fleet-can-sink-your-companys-ship-b9e4ab1fbb06)
+2. [How Your Printing Fleet Can Sink Your Company's Ship](https://elizabethhadik.medium.com/how-your-printing-fleet-can-sink-your-companys-ship-b9e4ab1fbb06?source=friends_link&sk=cdd183bcfa32c5b4d41acccf52dff812)
 
 #
 
