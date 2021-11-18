@@ -49,7 +49,7 @@ which the user can then copy and paste into the user's preferred messaging mecha
 
 It also provides the user with guides to lead the team meetings required for the day.
 
-[You can check it out here.](https://github.com/HadikHuszar/dayslayer)
+[You can check out the DaySlayer GitHub repo here.](https://github.com/HadikHuszar/dayslayer)
 
 <!--
 **HadikHuszar/HadikHuszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
