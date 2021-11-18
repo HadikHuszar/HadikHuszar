@@ -16,9 +16,11 @@ I am a lifelong learner, insatiably curious, prefer the road less travelled and 
 
 1. [Now We Know the Power of the Dark Side](https://elizabethhadik.medium.com/now-we-know-the-power-of-the-dark-side-d22953f59129)
 
-<br>
-
 2. [How Your Printing Fleet Can Sink Your Company's Ship](https://elizabethhadik.medium.com/how-your-printing-fleet-can-sink-your-companys-ship-b9e4ab1fbb06)
+
+#
+
+### What I Am Working On
 
 <!--
 **HadikHuszar/HadikHuszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
