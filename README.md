@@ -24,6 +24,16 @@ I am a lifelong learner, insatiably curious, prefer the road less travelled and 
 
 I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
+ <img style="margin-left: -5px;" src="https://static.wixstatic.com/media/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.png/v1/fill/w_159,h_58,al_c,q_85/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.webp">
+
+<br>**Leading a Team Made Simple.**
+
+[View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard)&nbsp;&nbsp;&nbsp;<sub>\*_(See testing profiles below in the "To Use" section to sign in with.)_</sub>
+
+[View DaySlayer™ Website](https://www.dayslayer.today/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Project information, including data schema, user-flow and wireframe.)_</sub>
+
+[View DaySlayer™ Walkthrough Video](https://video.wixstatic.com/video/22d03e_4d8e939fe7bf44b3a99b30e204775db9/480p/mp4/file.mp4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Walkthrough of DaySlayer App.)_</sub>
+
 **What is DaySlayer?**
 DaySlayer™ is a team lead app designed to make leading a team simple. <br><br>It allows a user to:
 
