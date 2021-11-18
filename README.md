@@ -34,6 +34,7 @@ I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
 [View DaySlayer™ Walkthrough Video](https://video.wixstatic.com/video/22d03e_4d8e939fe7bf44b3a99b30e204775db9/480p/mp4/file.mp4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Walkthrough of DaySlayer App.)_</sub>
 
+<br><br><br>
 **What is DaySlayer?**
 DaySlayer™ is a team lead app designed to make leading a team simple. <br><br>It allows a user to:
 
