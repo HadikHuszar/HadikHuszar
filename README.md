@@ -28,9 +28,7 @@ I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
 **Leading a Team Made Simple.**
 
-[View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard)&nbsp;&nbsp;&nbsp;<sub>\*_(See testing profiles below in the "To Use" section to sign in with.)_</sub>
-
-[View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard {:target="\_blank" rel="noopener"})&nbsp;&nbsp;&nbsp;<sub>\*_(See testing profiles below in the "To Use" section to sign in with.)_</sub>
+[View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard)&nbsp;&nbsp;&nbsp;<sub>\*_(Ideal Window Size: 1755 x 966)(See testing profiles below in the "To Use" section to sign in with.)_</sub>
 
 [View DaySlayer™ Website](https://www.dayslayer.today/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Project information, including data schema, user-flow and wireframe.)_</sub>
 
