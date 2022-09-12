@@ -28,7 +28,7 @@ I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
 [![](https://static.wixstatic.com/media/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.png/v1/fill/w_159,h_58,al_c,q_85/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.webp)](#)
 <a href="#"><img source="https://static.wixstatic.com/media/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.png/v1/fill/w_159,h_58,al_c,q_85/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.webp" /></a>
-<span margin-bottom="-5">
+<span margin-bottom="15">
 **Leading a Team Made Simple.**
 </span>
   
