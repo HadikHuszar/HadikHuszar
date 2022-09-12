@@ -28,13 +28,9 @@ I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
 [![](https://static.wixstatic.com/media/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.png/v1/fill/w_159,h_58,al_c,q_85/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.webp)](#)
 <a href="#"><img source="https://static.wixstatic.com/media/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.png/v1/fill/w_159,h_58,al_c,q_85/22d03e_faa72cd2e2da48a189937bb2af555ddf~mv2.webp" /></a>
-span {
-  margin-bottom: 15px;
-}
-<span id="span">
-**Leading a Team Made Simple.**
-</span>
-  
+**:  Leading a Team Made Simple.**
+
+
 [View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard)&nbsp;&nbsp;&nbsp;<sub>\*_(Ideal Window Size: 1755 x 966)(See testing profiles below in the "To Use" section to sign in with.)_</sub>
 
 [View DaySlayer™ Website](https://www.dayslayer.today/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Project information, including data schema, user-flow and wireframe.)_</sub>
