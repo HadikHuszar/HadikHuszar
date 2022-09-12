@@ -30,6 +30,8 @@ I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
 [View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard)&nbsp;&nbsp;&nbsp;<sub>\*_(See testing profiles below in the "To Use" section to sign in with.)_</sub>
 
+[View DaySlayer™ Live] [go](https://dayslayer.herokuapp.com/dashboard){:target="_blank" rel="noopener"}&nbsp;&nbsp;&nbsp;<sub>\*_(See testing profiles below in the "To Use" section to sign in with.)_</sub>
+
 [View DaySlayer™ Website](https://www.dayslayer.today/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Project information, including data schema, user-flow and wireframe.)_</sub>
 
 [View DaySlayer™ Walkthrough Video](https://video.wixstatic.com/video/22d03e_4d8e939fe7bf44b3a99b30e204775db9/480p/mp4/file.mp4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Walkthrough of DaySlayer App.)_</sub>
