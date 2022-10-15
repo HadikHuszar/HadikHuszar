@@ -33,13 +33,11 @@ I just finished my capstone project at Techtonica. It is called DaySlayer™.
 
 [View DaySlayer™ Live](https://dayslayer.herokuapp.com/dashboard)&nbsp;&nbsp;&nbsp;<sub>\*_(Ideal Window Size: 1755 x 966)(See testing profiles below in the "To Use" section to sign in with.)_</sub>
 
-[View DaySlayer™ Website](https://www.dayslayer.today/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Project information, including data schema, user-flow and wireframe.)_</sub>
-
 [View DaySlayer™ Walkthrough Video](https://video.wixstatic.com/video/22d03e_4d8e939fe7bf44b3a99b30e204775db9/480p/mp4/file.mp4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>\*_(Walkthrough of DaySlayer App.)_</sub>
 
 <br><br><br>
 **What is DaySlayer?**
-DaySlayer™ is a team lead app designed to make leading a team simple. <br><br>It allows a user to:
+DaySlayer™ is a web-based app designed to make leading a team simple. <br><br>It allows a user to:
 
 - collect items from the **Team Calendar**
 - collect items from the **Mentor Calendar**
